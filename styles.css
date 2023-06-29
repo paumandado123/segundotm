@@ -15,6 +15,10 @@ body{
   padding: 0;
 }
 
-  img {
-    width: 100px;
-  }
+.principal {
+    background-image: url();
+}
+
+.container {
+  height: 100vg;
+}
